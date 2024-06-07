@@ -8,7 +8,7 @@
 -source
 '21'
 -sourcepath
-'C:/МИФИ/GitHub/Test_5.2/src/main/java;C:/МИФИ/GitHub/Test_5.2/target/generated-sources/annotations'
+'C:/МИФИ/GitHub/Lab5_Finally/src/main/java;C:/МИФИ/GitHub/Lab5_Finally/target/generated-sources/annotations'
 -author
 -bottom
 'Copyright &#169; 2024. All rights reserved.'
@@ -43,36 +43,36 @@ C:\Users\user\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api
 C:\Users\user\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.18.0\log4j-slf4j-impl-2.18.0.jar = 1717688438637
 C:\Users\user\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar = 1717688438546
 C:\Users\user\.m2\repository\org\projectlombok\lombok\1.18.32\lombok-1.18.32.jar = 1717690201304
-C:\МИФИ\GitHub\Test_5.2\src\main\java = 1717710995991
-C:\МИФИ\GitHub\Test_5.2\target\generated-sources\annotations = 1717722307741
-C:\Users\user\Documents\javadoc\apidocs\allclasses-index.html = 1717722313513
-C:\Users\user\Documents\javadoc\apidocs\allpackages-index.html = 1717722313516
-C:\Users\user\Documents\javadoc\apidocs\copy.svg = 1717722313568
-C:\Users\user\Documents\javadoc\apidocs\element-list = 1717722313255
+C:\МИФИ\GitHub\Lab5_Finally\src\main\java = 1717723082259
+C:\МИФИ\GitHub\Lab5_Finally\target\generated-sources\annotations = 1717723195996
+C:\Users\user\Documents\javadoc\apidocs\allclasses-index.html = 1717723201658
+C:\Users\user\Documents\javadoc\apidocs\allpackages-index.html = 1717723201661
+C:\Users\user\Documents\javadoc\apidocs\copy.svg = 1717723201707
+C:\Users\user\Documents\javadoc\apidocs\element-list = 1717723201372
 C:\Users\user\Documents\javadoc\apidocs\ExcelReader.html = 1717706081988
 C:\Users\user\Documents\javadoc\apidocs\Fight.html = 1717706082017
 C:\Users\user\Documents\javadoc\apidocs\Game.html = 1717706082056
-C:\Users\user\Documents\javadoc\apidocs\help-doc.html = 1717722313562
-C:\Users\user\Documents\javadoc\apidocs\index-all.html = 1717722313550
-C:\Users\user\Documents\javadoc\apidocs\index.html = 1717722313489
+C:\Users\user\Documents\javadoc\apidocs\help-doc.html = 1717723201701
+C:\Users\user\Documents\javadoc\apidocs\index-all.html = 1717723201689
+C:\Users\user\Documents\javadoc\apidocs\index.html = 1717723201633
 C:\Users\user\Documents\javadoc\apidocs\Item.html = 1717706082091
 C:\Users\user\Documents\javadoc\apidocs\JFrames.html = 1717706082183
-C:\Users\user\Documents\javadoc\apidocs\link.svg = 1717722313570
-C:\Users\user\Documents\javadoc\apidocs\member-search-index.js = 1717722313522
-C:\Users\user\Documents\javadoc\apidocs\module-search-index.js = 1717722313518
-C:\Users\user\Documents\javadoc\apidocs\overview-summary.html = 1717722313556
-C:\Users\user\Documents\javadoc\apidocs\overview-tree.html = 1717722313484
-C:\Users\user\Documents\javadoc\apidocs\package-search-index.js = 1717722313519
+C:\Users\user\Documents\javadoc\apidocs\link.svg = 1717723201708
+C:\Users\user\Documents\javadoc\apidocs\member-search-index.js = 1717723201665
+C:\Users\user\Documents\javadoc\apidocs\module-search-index.js = 1717723201662
+C:\Users\user\Documents\javadoc\apidocs\overview-summary.html = 1717723201695
+C:\Users\user\Documents\javadoc\apidocs\overview-tree.html = 1717723201627
+C:\Users\user\Documents\javadoc\apidocs\package-search-index.js = 1717723201663
 C:\Users\user\Documents\javadoc\apidocs\package-summary.html = 1717706082300
 C:\Users\user\Documents\javadoc\apidocs\package-tree.html = 1717706082307
 C:\Users\user\Documents\javadoc\apidocs\package-use.html = 1717706082466
 C:\Users\user\Documents\javadoc\apidocs\Result.html = 1717706082220
-C:\Users\user\Documents\javadoc\apidocs\script.js = 1717722313567
-C:\Users\user\Documents\javadoc\apidocs\search-page.js = 1717722313574
-C:\Users\user\Documents\javadoc\apidocs\search.html = 1717722313553
-C:\Users\user\Documents\javadoc\apidocs\search.js = 1717722313572
-C:\Users\user\Documents\javadoc\apidocs\serialized-form.html = 1717722313367
+C:\Users\user\Documents\javadoc\apidocs\script.js = 1717723201706
+C:\Users\user\Documents\javadoc\apidocs\search-page.js = 1717723201712
+C:\Users\user\Documents\javadoc\apidocs\search.html = 1717723201692
+C:\Users\user\Documents\javadoc\apidocs\search.js = 1717723201710
+C:\Users\user\Documents\javadoc\apidocs\serialized-form.html = 1717723201510
 C:\Users\user\Documents\javadoc\apidocs\Start.html = 1717706082268
-C:\Users\user\Documents\javadoc\apidocs\stylesheet.css = 1717722313565
-C:\Users\user\Documents\javadoc\apidocs\tag-search-index.js = 1717722313524
-C:\Users\user\Documents\javadoc\apidocs\type-search-index.js = 1717722313521
+C:\Users\user\Documents\javadoc\apidocs\stylesheet.css = 1717723201704
+C:\Users\user\Documents\javadoc\apidocs\tag-search-index.js = 1717723201666
+C:\Users\user\Documents\javadoc\apidocs\type-search-index.js = 1717723201664
